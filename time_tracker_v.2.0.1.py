@@ -65,4 +65,4 @@ with open('time_tracking_data.csv', 'a+', newline='\n', encoding='utf8') as f:
 		writer.writerow(row)
 		writer.writerows(data)
 
-#Thank you Azubi!!
+#Thank you Azubi!!!
