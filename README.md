@@ -64,4 +64,4 @@ Jeffrey Larbi-Akor
 *CSV
 
 
-##### Note: this application was built with Python 3
+##### Note: this application was built with Python version 3.8.2
