@@ -4,13 +4,13 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Below are the sections of this documentation
 
 - [What is MOMENTO TRACKER version 1](#what-is-momento-tracker)
 - [How MOMENTO TRACKER version 1 works](#how-it-works-use)
 - [Addition](#addition)
 - [Constraint](#constraint)
-- [MOMENTO TRACKER version 2](#momento-tracker version 2.0.1)
+- [MOMENTO TRACKER version 2](#momento-tracker-version-2.0.1)
 - [Developers](#developers)
 - [Modules Imported](#modules-imported)
 
