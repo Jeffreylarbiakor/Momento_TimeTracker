@@ -3,7 +3,7 @@
 ![Project Image](https://www.alliancesoftware.com.au/wp-content/uploads/Time-Tracker@2x.png)
 
 ---
-
+ 
 ### Table of Contents
 Below are the sections of this documentation
 
