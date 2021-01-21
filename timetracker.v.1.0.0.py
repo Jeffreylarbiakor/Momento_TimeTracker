@@ -3,8 +3,8 @@ import csv
 
 
 def salary(hr):
-    pay = hr*5
-    return print(f'your salary is ${pay}')
+    pay = hr*s
+    return pring(f'your salary is ${pay}')
 
 
 track_date = date.today()  # getting the system's date and assigning it to a variable
