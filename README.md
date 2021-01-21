@@ -1,10 +1,10 @@
 # MOMENTO TRACKER DOCUMENTATION 
 
 ![Project Image](https://www.alliancesoftware.com.au/wp-content/uploads/Time-Tracker@2x.png)
- 
+
 ---
- 
-### Table of Contents
+
+### Table of contents
 Below are the sections of this documentation
 
 - [What is MOMENTO TRACKER version 1](#what-is-momento-tracker)
